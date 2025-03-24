@@ -1,0 +1,13 @@
+Grupo 14: Proyecto de Generación de Información en Archivos CSV
+
+Miembros:
+- Santiago Felipe Romero
+- Andres Camilo Rendon
+- Juan Manuel Renteria
+- Julian Giovanny Rey
+- Daniel Felipe Rojas
+
+Descripción del proyecto:
+Este proyecto tiene como objetivo crear un sistema de generación de archivos CSV con información de ventas, productos y vendedores. A través de la programación en Java, se busca automatizar la creación de estos archivos para facilitar su uso posterior en análisis y reportes. El proyecto incluye la creación de un programa que genera archivos como "vendedores.csv", "productos.csv" y "ventas.csv".
+
+https://github.com/Sanfero90/ProyectoCFPB01GrupoG14.git
