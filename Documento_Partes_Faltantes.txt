@@ -1,0 +1,35 @@
+# Documento de Partes Faltantes
+
+Este documento describe el estado actual del proyecto "Generación y Procesamiento de Archivos de Ventas" y las funcionalidades que aún están pendientes de implementación.
+
+## Funcionalidades Completadas
+
+1. **Generación de Archivos de Entrada:**
+   - Los archivos `vendedores.csv`, `productos.csv` y los archivos de ventas por vendedor (`ventas_<ID>.csv`) se generan correctamente.
+   - El formato de los archivos es el esperado y contiene la información correcta (aleatoria).
+
+2. **Estructura del Proyecto:**
+   - El proyecto está organizado correctamente en carpetas: `src`, `data` y `output`.
+
+## Funcionalidades Pendientes o en Desarrollo
+
+1. **Generación de Reportes (Por Implementar):**
+   - Aún falta implementar la funcionalidad para generar los reportes en formato CSV (`reporte_vendedores.csv` y `reporte_productos.csv`).
+   - Los reportes deben incluir las ganancias de los vendedores y los productos más vendidos, ordenados de mayor a menor.
+
+2. **Validaciones de Datos:**
+   - Actualmente no se valida que los valores de ventas y precios sean positivos. Esto debe ser implementado para evitar datos erróneos en los archivos de ventas y productos.
+   - No se verifica que el ID de producto en los archivos de ventas coincida con los productos listados en `productos.csv`.
+
+3. **Manejo de Errores:**
+   - El manejo de errores no está implementado correctamente. Por ejemplo, si un archivo está mal formado o contiene datos incoherentes, el programa no muestra mensajes de error claros.
+
+4. **Persistencia de Datos:**
+   - Aún no se ha implementado la funcionalidad de serialización de datos, es decir, guardar los objetos de vendedores, productos y ventas en un formato binario.
+
+## Próximos Pasos
+
+1. Implementar la generación de los reportes con los vendedores y productos ordenados.
+2. Agregar validaciones de datos, asegurando que las cantidades y precios sean correctos.
+3. Implementar el manejo adecuado de errores y mensajes informativos en caso de fallos.
+4. Completar la persistencia de datos para almacenar la información generada.
