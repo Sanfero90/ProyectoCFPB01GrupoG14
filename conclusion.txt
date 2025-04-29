@@ -1,0 +1,14 @@
+Grupo 14: Archivo de conclusiones 
+
+Conclusiones:
+
+##1. Lo aprendido durante el desarrollo del proyecto.
+A medida que desarrollábamos el proyecto aprendimos y reforzamos diferentes conceptos tales como, los básicos de la programación, control de versiones mediante GitHub, Pruebas de software, Documentación del código, buenas practicas de programación, y metodologías de trabajo en equipo.
+
+##2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y
+practicados durante el desarrollo del proyecto.
+Podemos utilizar todo lo aprendido en nuestro ámbito laboral para mejorar y optimizar problemas que se nos presenten en el día a día, creando programas que nos solucionen esto, mejorando el trabajo en equipo, aprendiendo una metodologías que nos ayuden a tener un trabajo mas eficaz y organizado además de la resolución e problemas de una manera rápida.
+
+##3. Las dificultades presentadas durante el desarrollo del proyecto.
+El problema mas común durante el desarrollo de las actividades fue poder aplicar al código lo que íbamos aprendiendo semana a semana durante las lecturas, ya que a medida que se implementaba lo aprendido podían surgir errores a los cuales no les conocíamos la solución, por ende esto nos hacia tener que indagar diferentes métodos para poder solucionarlo, estos método podrían ser videos en internet, Inteligencia artificial, o foros de desarrollo.
+
