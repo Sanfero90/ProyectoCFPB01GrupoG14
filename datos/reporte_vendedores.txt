@@ -1,0 +1,46 @@
+Vendedor: Desconocido (12574687)
+ - Diésel: 6 unidades ($24874,02)
+ Total ventas: $24874,02
+
+Vendedor: Desconocido (65772651)
+ - Lubricante: 5 unidades ($20786,25)
+ Total ventas: $20786,25
+
+Vendedor: Desconocido (28839914)
+ - Lubricante: 7 unidades ($29100,75)
+ Total ventas: $29100,75
+
+Vendedor: Maria Rodríguez (32437338)
+ - Lubricante: 26 unidades ($108088,50)
+ - Gasolina: 7 unidades ($25597,67)
+ Total ventas: $133686,17
+
+Vendedor: Carlos Gómez (70439412)
+ - Lubricante: 1 unidades ($4157,25)
+ Total ventas: $4157,25
+
+Vendedor: Ana Rodríguez (79351107)
+ - Lubricante: 3 unidades ($12471,75)
+ - Gasolina: 3 unidades ($10970,43)
+ - Diésel: 8 unidades ($33165,36)
+ Total ventas: $56607,54
+
+Vendedor: Desconocido (85217391)
+ - Gasolina: 10 unidades ($36568,10)
+ - Lubricante: 22 unidades ($91459,50)
+ Total ventas: $128027,60
+
+Vendedor: Sofía Gómez (92899762)
+ - Diésel: 3 unidades ($12437,01)
+ - Gasolina: 5 unidades ($18284,05)
+ Total ventas: $30721,06
+
+Vendedor: Desconocido (22710372)
+ - Lubricante: 5 unidades ($20786,25)
+ Total ventas: $20786,25
+
+Vendedor: Ana Pérez (14427331)
+ - Lubricante: 6 unidades ($24943,50)
+ - Diésel: 8 unidades ($33165,36)
+ Total ventas: $58108,86
+

@@ -1,0 +1,5 @@
+1;Lubricante;4157,25
+2;Gasolina;3656,81
+3;Diésel;4145,67
+4;Lubricante;1010,45
+5;Lubricante;4624,99

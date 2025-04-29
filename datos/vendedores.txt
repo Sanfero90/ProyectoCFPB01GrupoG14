@@ -1,0 +1,5 @@
+CC;14427331;Ana;Pérez
+TI;32437338;Maria;Rodríguez
+CC;70439412;Carlos;Gómez
+TI;92899762;Sofía;Gómez
+TI;79351107;Ana;Rodríguez
