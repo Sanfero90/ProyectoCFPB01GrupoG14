@@ -2,8 +2,6 @@ Grupo 14: Proyecto de Generación de Información en Archivos CSV
 
 Miembros:
 - Santiago Felipe Romero
-- Andres Camilo Rendon
-- Juan Manuel Renteria
 - Julian Giovanny Rey
 - Daniel Felipe Rojas
 
