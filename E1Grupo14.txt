@@ -1,6 +1,6 @@
 Grupo 14: Proyecto de Generación de Información en Archivos CSV
 
-Miembros:
+Miembros para la entrega 3:
 - Santiago Felipe Romero
 - Julian Giovanny Rey
 - Daniel Felipe Rojas
